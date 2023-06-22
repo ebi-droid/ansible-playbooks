@@ -1,4 +1,4 @@
-- hosts: {{inventory}}
+- hosts: all
   become: yes
 
   tasks:
